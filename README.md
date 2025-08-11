@@ -67,11 +67,13 @@ The data was collected from public APIs and may include both Hungarian and inter
 
 ---
 
-## 📈 Example Insights
+## 📈 **Dashboard Visualizations**
 
-- Top cities and operators by station count
-- Average and spread of charging prices by operator and city
-- Market share and competition analysis
-- Geographic coverage and underserved areas
+**1. EV Network Growth & Capacity Trends**  
+![EV Network Growth Dashboard]
 
----
+**2. Geographic Coverage & Accessibility**  
+![EV Coverage Dashboard](path_to_image2.png)  
+
+**3. Pricing Distribution**  
+![Pricing Distribution](path_to_image3.png) 
