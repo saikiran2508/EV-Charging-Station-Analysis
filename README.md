@@ -74,10 +74,32 @@ The data was collected from public APIs and may include both Hungarian and inter
 
 
 **2. Geographic Coverage & Accessibility**  
-![EV Coverage Dashboard](path_to_image2.png)  
+![EV Coverage Dashboard](Geographic%20Coverage.png)  
 
 **3. Pricing Distribution**  
-![Pricing Distribution](path_to_image3.png) 
+![Pricing Distribution](Pricing%20Distribution) 
+
+## 🔍 **Key Insights**
+
+1. **Growth Trends** – Rapid expansion in 2018–2019, slowed sharply after 2021; total ~860 stations.
+2. **Operational Status** – ~99% operational; top operators: **EON** (191), **Business Owner** (169), **E-Mobi** (129).
+3. **Capacity** – Leaders in charging points: EON, TEA; capacity growth slowed post-2019.
+4. **Coverage** – Dense in Budapest/central Hungary; rural areas underserved. Avg. accessibility score: 3.51.
+5. **Payment Methods** – EON, Business Owner, E-Mobi dominate; smaller operators have limited options.
+6. **Pricing** – Common AC price: 90–110 HUF/kWh; budget range 60–80 HUF/kWh; some premium >300 HUF/kWh.
+7. **Opportunities** – Expand rural coverage, offer competitive pricing, improve 24/7 availability and payment diversity.
+
+---
+
+
+## 📌 **Example Use Cases**
+
+- Identify underserved regions for EV infrastructure expansion
+- Benchmark operator pricing strategies
+- Analyze accessibility improvements over time
+- Evaluate competitive market share in EV charging networks
+"""
+
 
 
 
