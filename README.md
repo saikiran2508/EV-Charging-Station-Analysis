@@ -70,11 +70,12 @@ The data was collected from public APIs and may include both Hungarian and inter
 ## 📈 **Dashboard Visualizations**
 
 **1. EV Network Growth & Capacity Trends**  
-![EV Network Growth Dashboard](EV Network Growth.png)
+![EV Network Growth Dashboard]("EV Network Growth.png")
 
 **2. Geographic Coverage & Accessibility**  
 ![EV Coverage Dashboard](path_to_image2.png)  
 
 **3. Pricing Distribution**  
 ![Pricing Distribution](path_to_image3.png) 
+
 
