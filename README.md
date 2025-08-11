@@ -77,7 +77,7 @@ The data was collected from public APIs and may include both Hungarian and inter
 ![EV Coverage Dashboard](Geographic%20Coverage.png)  
 
 **3. Pricing Distribution**  
-![Pricing Distribution](Pricing%20Distribution) 
+![Pricing Distribution](Pricing%20Distribution.png) 
 
 ## 🔍 **Key Insights**
 
@@ -99,6 +99,7 @@ The data was collected from public APIs and may include both Hungarian and inter
 - Analyze accessibility improvements over time
 - Evaluate competitive market share in EV charging networks
 """
+
 
 
 
